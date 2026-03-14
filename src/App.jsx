@@ -3,7 +3,7 @@ import LITTLE_PIC_1 from "../public/pic/littlePic1.jpg";
 import LITTLE_PIC_2 from "../public/pic/littlePic2.jpg";
 import BANNER_IMAGE from "../public/pic/banner1.jpg";
 import PROMO_BANNER_1 from "../public/pic/sideBanner1.jpg";
-import PROMO_BANNER_2 from "../public/pic/sideBanner2.jpg";
+import PROMO_BANNER_2 from "../public/pic/sidebanner2.jpg";
 import BOTTOMLINK_1 from "../public/pic/link1.jpg";
 import BOTTOMLINK_2 from "../public/pic/link2.jpg";
 import BOTTOMLINK_3 from "../public/pic/link3.jpg";
